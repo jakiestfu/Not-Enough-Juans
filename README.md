@@ -3,7 +3,7 @@ Not Enough Juans
 
 Chrome extension that replaces occurrences of 'words' with 'Juan'
 
-[Direct download of crx file](https://github.com/jakiestfu/Not-Enought-Juans/blob/master/Not-Enough-Juans.crx?raw=true)
+[Direct download of crx file](https://github.com/jakiestfu/Not-Enough-Juans/raw/master/Not-Enough-Juans.crx)
 
 Installation
 ------------
