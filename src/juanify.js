@@ -38,7 +38,7 @@
 		for(var i=0; i<words.length; i++) {
 			v = v.replace(" " + words[i], " " + name);
 		}
-		
+
 		if(textNode.nodeValue !== v) {
 			textNode.nodeValue = v;
 		}

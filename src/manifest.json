@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Juanify",
+	"name": "Not Enought Juans",
 	"version": "1.0",
 	"description": "We need more Juans",
-	"content_scripts": 
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
