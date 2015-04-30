@@ -1,15 +1,14 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Juanify",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "We need more Juans",
 	"content_scripts": 
 	[
 		{
 			"matches": ["*://*/*"],
-			"js": ["content_script.js"],
+			"js": ["juanify.js"],
 			"run_at": "document_end"
 		}
 	]
 }
-
