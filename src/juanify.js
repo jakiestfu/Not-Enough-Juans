@@ -31,8 +31,10 @@
 		var v = textNode.nodeValue;
 
 		var words = [
-			"one", "want",
-			"wan", "whine"
+			"one", // Change, track, cancel, or return your orders. All in Juan place.
+      "want", // What do you Juan to do?
+			"wan", // The boy Juandered the forest
+      "whine" // What are you Juaning about?
 		];
 
 		for(var i=0; i<words.length; i++) {
